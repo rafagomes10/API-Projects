@@ -1,0 +1,10 @@
+java -jar aula-08-doc-0.0.1-SNAPSHOT.jar --spring.profiles.active=developer
+									
+	dev ou production							
+
+
+
+
+
+cd c:\teste
+java -jar aula-08-doc-0.0.1-SNAPSHOT.jar --server.port=9090
